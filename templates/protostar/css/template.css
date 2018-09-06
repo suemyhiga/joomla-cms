@@ -7760,3 +7760,8 @@ ul.manager .height-50 .icon-folder-2 {
 .rtl .finder-selects {
 	margin: 0 0 15px 15px;
 }
+
+
+.site-title{
+  color: red !important;
+}
